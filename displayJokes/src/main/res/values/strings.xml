@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Display Jokes</string>
+    <string name="welcome_to_the_joke_factory">Welcome to the Joke Endpoint!</string>
+    <string name="no_joke_was_received">No joke was received!</string>
+</resources>
